@@ -1,0 +1,8 @@
+0. Made it so that the program works on a username base, instead of ID, since all of them are unique (per the requirements)
+1. Added functionality to delete/add/view blacklist (based on username)
+2. Added function to see balance of branch (admin only)
+3. Blacklist array is loaded automatically into a file (branch name + BL.txt), and retrieved from there
+4. Combined withdraw and deposit into a single function
+5. Re-organized main so that it is easier to follow
+
+We have a placeholder user on all the files, since for some reason, the first user always had an incorrect balance
